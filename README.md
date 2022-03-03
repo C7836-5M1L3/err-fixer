@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/e5e5f38bdd2afcf07311d.jpg" width="450" height="250"/>
+  <img border-radius: 15px src="https://telegra.ph/file/aa3df8cf3cc37d745eea6.jpg" width="200" height="200"/>
 
 <p align="center">
 <a href="https://wa.me/+33643000003"><img title="CYBER SMILE" src="https://img.shields.io/badge/Cyber_smile-CONTACT ME ON-SMILE/CYBER%20SMILE?color=Blue&style=for-the-badge&logo=whatsapp"></a>
